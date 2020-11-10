@@ -9,5 +9,5 @@ This project is led by Molly McDermott, in collaboration with Sage Madden, Dr. R
 
 
 
-GitHub page created by Marina Ayala
+
 
